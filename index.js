@@ -15,5 +15,5 @@ function superbowlWin(record) {
   }
 }
 
-const winningYear = superbowlWin(record);/
+const winningYear = superbowlWin(record);
 console.log(winningYear);
